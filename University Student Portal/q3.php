@@ -117,8 +117,7 @@ $html = "
 ";
 }
 echo $html;
-401914025_Vidur_Lutchminarain
-23 | P a g e
+
 if(isset($_POST["fee"]))
 {
 header('location: fees.php');

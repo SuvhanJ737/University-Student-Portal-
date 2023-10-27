@@ -12,8 +12,7 @@ $var = $_SESSION["user_name"];
 <html>
 <head>
 <style>
-401914025_Vidur_Lutchminarain
-34 | P a g e
+
 tr , th , td {
  border: 1px solid black;
  text-align: center;
